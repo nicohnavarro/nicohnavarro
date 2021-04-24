@@ -10,7 +10,7 @@
 ---
 
 ### 🌏&nbsp;Visit my personal website 
-nicohnavarro.com
+<a href="https://nicohnavarro.com" target="_blank">nicohnavarro.com</a>🧑‍🚀
 #### and check out my work!
 
 
@@ -24,7 +24,7 @@ nicohnavarro.com
     and     
     <a href="https://es.reactjs.org/" target="_blank">React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="20" height="20" /></a>. 
     <br>And in backend 
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">C# <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="20" height="20" /></a>  or 
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">.NET <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp" width="20" height="20" /></a>  or 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">NodeJS <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20" /></a>.
     <br>With <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" target="_blank">SQLServer <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="20" height="20" /></a> and 
     <a href="https://www.mongodb.com/cloud/atlas" target="_blank">MongoDB <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20" /></a>.
@@ -51,7 +51,10 @@ nicohnavarro.com
 
 # Get in touch 📲
 
-| [<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="20">](https://in.linkedin.com/in/nicohnavarro) | [<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="20">](https://twitter.com/nicohnavarro) | [<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Instagram.svg" alt="instagram logo" width="20">](https://www.instagram.com/nicohnavarro/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/nicohnavarro) | [<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="20">](mailto:nicohnavarro@gmail.com) 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+[<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="20">](https://in.linkedin.com/in/nicohnavarro) 
+[<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="20">](https://twitter.com/nicohnavarro) 
+[<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Instagram.svg" alt="instagram logo" width="20">](https://www.instagram.com/nicohnavarro/) 
+[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="20">](https://github.com/nicohnavarro)
+[<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="20">](mailto:nicohnavarro@gmail.com) 
 
 
