@@ -52,9 +52,5 @@
 # Get in touch 📲
 
 [<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="20">](https://in.linkedin.com/in/nicohnavarro) 
-[<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="20">](https://twitter.com/nicohnavarro) 
-[<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Instagram.svg" alt="instagram logo" width="20">](https://www.instagram.com/nicohnavarro/) 
-[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="20">](https://github.com/nicohnavarro)
-[<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="20">](mailto:nicohnavarro@gmail.com) 
 
 
