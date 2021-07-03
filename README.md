@@ -42,7 +42,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/nicohnavarro">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicohnavarro&layout=compact&theme=onedark&show_icons=true&langs_count=10"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicohnavarro&layout=compact&theme=onedark&show_icons=true&hide=php,python,html&langs_count=10"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nicohnavarro&show_icons=true&theme=onedark&line_height=27" alt="nicohnavarro"/>
 </a>
 </p>
