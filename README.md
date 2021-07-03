@@ -50,7 +50,6 @@
 <br>
 
 # Get in touch 📲
-
 [<img src="https://github.com/nicohnavarro/nicohnavarro/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="20">](https://in.linkedin.com/in/nicohnavarro) 
 
 
